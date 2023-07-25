@@ -1,4 +1,4 @@
-# WW2 Weather Conditions (Temperature Changes) Analysis
+# WW2 Weather Conditions Analysis
 
 ## Overview
 This project explores the weather conditions during World War II and investigates the impact of weather on aerial bombing operations. The analysis aims to understand temperature changes, precipitation, wind speed, and other weather-related factors during the war period.
